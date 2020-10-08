@@ -1,0 +1,19 @@
+label {
+	font-weight:bold;
+}
+
+footer{
+	background-color: grey;
+	color: white;
+}
+
+a{
+	background-color: grey;
+	color: white;
+}
+
+#visually-hidden {
+
+	background-color: red;
+
+}

@@ -1,0 +1,6 @@
+my_test:
+ path: /my/test 
+ defaults:
+   _controller: Drupal\my_test\Controller\MyTestController::bienvenu 
+ requirements:
+   _permission: 'access content' 

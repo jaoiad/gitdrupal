@@ -1,0 +1,6 @@
+name: My Test
+description: My first Drupal 8 Module
+package: Custom 
+type: module 
+version: 0.01 
+core: 8.x
